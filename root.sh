@@ -12,5 +12,5 @@ for password in $password_list; do
     fi
 done
 
-echo "Password not found"
+echo "oknot"
 exit 1
