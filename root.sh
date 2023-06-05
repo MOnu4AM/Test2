@@ -12,5 +12,5 @@ for password in $password_list; do
     fi
 done
 
-echo "oknot"
+echo "noooo!"
 exit 1
